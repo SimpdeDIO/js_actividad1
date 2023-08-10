@@ -1,3 +1,3 @@
 # js_actividad1
-actividad1 javascript
+Calculadora
 Esta actividad la hice con Joaquin Vovard
